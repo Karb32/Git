@@ -1,8 +1,8 @@
 # Git
 
 Установка
-* **git config** **--global user.email "Nadya.durina@gmail.com"**
-* **git config** **--global user.name "Nadezhda"**
+* **git config** **--global user.email "kovalchukroma2@gmail.com"**
+* **git config** **--global user.name "Roman"**
 * **git config** **--global --list** - посмотреть юзера и имейл
 * **ssh-keygen** - создать ssh ключ что бы подключить в гит хабе( в Settings) 
 * **git clone** (ssh репозитория или URL репозитория) - клонировать репозиторий на локальный ПК
